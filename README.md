@@ -40,7 +40,7 @@ Welcome to the English Dictionary! This web application provides users with the 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/English-Dictionary.git
+   git clone https://github.com/Jamalsalim-js12/English-Dictionary.git
 2. Open index.html in your web browser.
 3. Enter a word in the search bar and press Enter.
 4. Explore the meanings and, if available, listen to the pronunciation.
